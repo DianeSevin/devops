@@ -129,6 +129,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tlcfront"
+    }
+  },
+  "defaultProject": "tlcfront",
+  "cli": {
+    "analytics": "e6844250-cd7f-4396-a022-460e13d5683c"
+  }
 }
